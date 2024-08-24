@@ -41,6 +41,7 @@ body {
     flex-shrink: 0;
     background-color: var(--clr-white);
     border-radius: var(--br-normal);
+    box-shadow: 0rem 2rem 2rem rgba(0, 0, 0, 0.1);
 }
 
 .content {
